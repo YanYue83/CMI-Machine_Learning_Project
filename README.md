@@ -10,3 +10,7 @@ We are participating in the [Kaggle competition](https://www.kaggle.com/competit
   + Bùi Thị Huyền Tâm - 22028214
   + Đoàn Minh Quân - 20020152
 
+---
+- File ```final-of-final.ipynb``` contains all information about the complete and documented codebase for the competition.
+- File ```Machine Learning Project Report.docx``` is a detailed Word report if you want to read thoroughly.
+- The remaining files are old versions and can be neglected.
